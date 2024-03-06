@@ -13,6 +13,7 @@
 		A1F9A1932B98791400D70786 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1F9A1912B98791400D70786 /* Main.storyboard */; };
 		A1F9A1952B98791700D70786 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1F9A1942B98791700D70786 /* Assets.xcassets */; };
 		A1F9A1982B98791700D70786 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1F9A1962B98791700D70786 /* LaunchScreen.storyboard */; };
+		A1F9A1A02B98798800D70786 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1F9A19F2B98798800D70786 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A1F9A1942B98791700D70786 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A1F9A1972B98791700D70786 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A1F9A1992B98791700D70786 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A1F9A19F2B98798800D70786 /* ResultViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				A1F9A1942B98791700D70786 /* Assets.xcassets */,
 				A1F9A1962B98791700D70786 /* LaunchScreen.storyboard */,
 				A1F9A1992B98791700D70786 /* Info.plist */,
+				A1F9A19F2B98798800D70786 /* ResultViewController.swift */,
 			);
 			path = Tipsy;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				A1F9A1902B98791400D70786 /* ViewController.swift in Sources */,
 				A1F9A18C2B98791400D70786 /* AppDelegate.swift in Sources */,
 				A1F9A18E2B98791400D70786 /* SceneDelegate.swift in Sources */,
+				A1F9A1A02B98798800D70786 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
